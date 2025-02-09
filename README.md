@@ -67,17 +67,4 @@ Modify the following parameters in the respective scripts:
 * MATLAB Signal Processing Toolbox
 * MATLAB Statistics and Machine Learning Toolbox
 * Circular Statistics Toolbox for Matlab (circstat) - [Link to toolbox if available]
-* Custom functions located in the `/Volumes/Rahil_FRNU/Scripts/ZaghloulCodebase` and `/Volumes/Rahil_FRNU/Scripts/(7) Analysis/functions` directories.
-
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## Testing
-
-No formal unit tests are currently implemented.  Thorough testing is recommended before deploying the pipeline to a production environment.
-
-
-
-*README.md was made with [Etchr](https://etchr.dev)*
+* Custom functions located in the `/Volumes/Rahil_FRNU/Scripts/ZaghloulCodebase` and `/Volumes/Rahil_FRNU/Scripts/(7) Analysis/functions` directories. You may request the owner of the repository for access.
